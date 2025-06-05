@@ -5,11 +5,12 @@ This repository contains a collection of equations intended to establish prior a
 Author: David Novak
 GitHub: novakdavid98
 Website: https://digitalharbour.cz
-Email: novakdavid@digitalharbour.cz
+Email: novakdavid98@digitalharbour.cz
 
-## Potential Use Cases
+## Origin and Purpose
+These equations are derived from the work of Walter Russell and represent an attempt to formulate his ideas into a working mathematical framework. The potential use cases for these equations are not yet fully known or explored. This repository serves as a timestamped record of their conception.
 
-The potential use cases for these equations are not yet fully known or explored. This repository serves as a timestamped record of their conception.
+It is possible that these formulations may not be useful at all. However, if you find anything interesting or have insights, please feel free to reach out and collaborate. You can contact me at novakdavid98@digitalharbour.cz.
 
 ## License
 
