@@ -234,9 +234,7 @@ Ra(R, Rth) = {0, if R < Rth; 1, if R >= Rth}
 Genero-active Pressure Feedback and Dynamics
 
 
-Russell-Aligned Physics Equations - Complete Set
-Russell-Adjusted Equations (IDs 1-26)
-ID 1: Planetary Rotation Rate Equation (Russell-Aligned)
+I tried to allign it better with Russel's ideas like this:  
 
 ω = k * 2^(O-1) * (R_generative - R_radiative) * cos(θ_polarity) * Ψ_consciousness
 
